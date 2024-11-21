@@ -17,6 +17,6 @@ Explore the conditional formatting rules applied in each worksheet.
 Learning Outcomes
 By solving this assignment:
 
-1.I have Gained a deeper understanding of conditional formatting in Excel. 
+1.I have Gained a deeper understanding of conditional formatting in Excel.   
 2.Learnt how to apply different types of formatting rules effectively. 
 3.It Enhanced my data visualization and analysis skills.
