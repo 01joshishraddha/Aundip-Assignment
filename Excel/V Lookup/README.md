@@ -28,6 +28,6 @@ Each question is accompanied by step-by-step explanations and practical examples
 
 By completing this assignment:  
 
-- I have mastered the syntax and functionality of the VLOOKUP function.  
-- Also I have learnt to perform efficient lookups in real-world scenarios.  
-- Developed problem-solving skills for handling errors and optimizing lookups.
+1. I have mastered the syntax and functionality of the VLOOKUP function.   
+2.Also I have learnt to perform efficient lookups in real-world scenarios.   
+3. Developed problem-solving skills for handling errors and optimizing lookups.
