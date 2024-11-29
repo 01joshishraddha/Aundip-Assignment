@@ -5,11 +5,11 @@
 
 # Features:
 
-**📊 Comprehensive Metrics:**
-1-Employee Engagement: Monitor satisfaction, retention rates, and engagement levels.
-2-Performance Metrics: Track KPIs such as sales targets, project milestones, and productivity.
-3-Training and Development: Assess training completion rates and certifications.
-4-Attendance and Leave Management: Review trends and ensure compliance.
+**📊 Comprehensive Metrics:** 
+1-Employee Engagement: Monitor satisfaction, retention rates, and engagement levels. 
+2-Performance Metrics: Track KPIs such as sales targets, project milestones, and productivity.  
+3-Training and Development: Assess training completion rates and certifications.  
+4-Attendance and Leave Management: Review trends and ensure compliance. 
 
 **🔍 Interactive Features:**
 1-Drill-Down Functionality: Dive deep into department or individual-level data.
