@@ -22,7 +22,7 @@
 2-Synchronized slicers for seamless navigation.  
 3-Advanced formatting for clarity and appeal.
 
-# Technical Highlights
+# 🌐Technical Highlights
 
 **Data Preparation:**  
 1-Cleaned and transformed raw data using Power Query Editor.  
