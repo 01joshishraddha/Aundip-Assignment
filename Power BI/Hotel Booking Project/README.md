@@ -47,3 +47,6 @@ The dashboard aims to empower hotel managers and analysts with valuable insights
     git clone <repository-url> 
 2. Open the .pbix file in Power BI Desktop.
 3. Explore the interactive dashboard to gain insights.
+
+ # *Conclusion*
+This project showcases my skills in data visualization and analysis using Power BI. The dashboard serves as a powerful tool for business intelligence in the hospitality industry.
