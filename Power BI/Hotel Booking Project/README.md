@@ -44,8 +44,6 @@ The dashboard aims to empower hotel managers and analysts with valuable insights
 
 # *How to Use*
 1. Clone the repository:
-   
-   git clone <repository-url>
-   
+    git clone <repository-url> 
 2. Open the .pbix file in Power BI Desktop.
 3. Explore the interactive dashboard to gain insights.
